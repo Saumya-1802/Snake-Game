@@ -2,9 +2,9 @@
 
 A browser-based Snake game built with HTML5 Canvas, CSS3, and JavaScript, featuring enhanced visuals, sound effects, and gameplay mechanics.
 
-GAME DEMO
+### 🎮 Demo Video
 
-![Snake Game Demo](assets/snake_demo.gif)
+[▶ Watch the Snake Game demo](assets/snake_demo.mp4)
 
 🚀 Features
 
