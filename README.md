@@ -6,7 +6,13 @@ A browser-based Snake game built with HTML5 Canvas, CSS3, and JavaScript, featur
 
 [▶ Watch the Snake Game demo](assets/snake_demo.mp4)
 
-🚀 Features
+### Screenshots
+
+![WhatsApp Image 2025-07-05 at 14 59 45_952d05b7](https://github.com/user-attachments/assets/5ff15462-28ff-4b93-8cb7-6efaf161d737)
+
+![WhatsApp Image 2025-07-05 at 15 01 51_6368acef](https://github.com/user-attachments/assets/1d056da6-cb95-4a29-b601-cc18361ab022)
+
+### 🚀 Features
 
 Arrow key controls for smooth snake movement
 
@@ -26,7 +32,7 @@ Responsive canvas size (wider layout for better gameplay)
 
 Simple and clean UI with gradient borders and glowing wall effect
 
-🛠 Technologies
+### 🛠 Technologies
 
 HTML5 Canvas
 
@@ -36,7 +42,7 @@ JavaScript (game loop, input handling, collision detection)
 
 Git + GitHub for version control
 
-🎮 How to Play
+### 🎮 How to Play
 
 Use the arrow keys (↑ ↓ ← →) to move the snake.
 
@@ -44,7 +50,7 @@ Eat the apples to grow longer and score points.
 
 Avoid running into walls or yourself. You have 2 lives — after that, it's game over!
 
-📂 How to Run Locally
+### 📂 How to Run Locally
 
 1️⃣ Clone this repository:
 
